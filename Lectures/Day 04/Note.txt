@@ -1,0 +1,25 @@
+*we can make pointer/reference value NULL in c,c++ without a dpubt. But in c# we have to make the variable nullable using
+'?' to assign the address as null.
+	ex:-	public Node? Next { get; set; }
+
+		public Node(int data) 
+		{
+    			Data = data;
+    			Next = null;
+		}
+
+Arrays	-> Done	-> Fixed Size is major issue
+Dynamic Arrays	-> Done	-> fixed the size issue but remove and insert is not efficient
+
+Today;
+
+*LINKED LIST*
+
+	-have nodes and we connect those nodes by links
+	-links is based on reference variables(w/ memory addresses)
+	-In our example (LinkedList02):
+		~one node have 2 parts, 
+			+one containing data of this node
+			+another containing address of next node
+		~the whole chain/list contains linked nodes constructed in that way
+		~additionally we have 'head' & 'tail' to store addresses of 1st and last nodes/elements of our list
