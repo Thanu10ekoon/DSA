@@ -1,0 +1,19 @@
+LINKED LISTS
+
+	Add at given position
+		3 cases
+		   ~add to front
+		   ~add to end
+		   ~add in between tail and head
+	Remove element at a given position
+		4 cases
+		   ~Head
+		   ~Tail
+		   ~in between
+		   ~head=tail --> count == 1
+
+*If we have lot of insertions/deletions --> Linked Lists are faster
+*If we just  need a list for storing and retrieving, --> Arrays are Faster
+
+**We can go backwards in a linked list by adding .back attribute to node class ++++++>> Doubly LinkedLists
+(So upto now we had only one data element with only one memory address inside a node class. So total 2 attributes. Hence called Singly Linked Lists. But if we add .back attribute too, then we have a doubly linkedlist)
