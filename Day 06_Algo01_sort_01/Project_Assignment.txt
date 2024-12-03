@@ -1,0 +1,16 @@
+Themes
+	Library Book Management Sys
+	Cafe management sys
+	student gradebook
+	inventory management sys
+	music playlist manager
+	Not limited to these
+CLI is ok
+With a simple UI is also fine
+mostly focused on system
+should be in c#
+built in libraries cannot be used
+4 concepts of oop should be used (Abstraction, Encapsulation...)
+we should do some analysis by comparing each algorithm
+try to use more data structures. Don't depend only on one famililiar data structures like arrays (less marks)
+3rd of november deadline for selecting topic

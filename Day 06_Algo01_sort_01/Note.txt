@@ -1,0 +1,22 @@
+**Algorithms
+	*Sorting
+	  -Bubble sort
+	  -Insertion sort
+	  -Selection sort
+	  -Quick sort
+	  -Merge sort
+	  -Heap sort
+
+Time Complexity
+	Best Case = Big Omega
+	Worst Case= Big O
+	Avg Case  = Big-Theta
+
+Space Complexity??????
+
+Stability
+	If two or more items with same value stays in same arrangement even after sorted, it is a stable sorting algorithm
+	if they are also swapped unnecessarily, it is unstable
+
+Bubble Sort
+	We can optimize this algo by putting a flag variable to stop repetition even after array is done sorting
