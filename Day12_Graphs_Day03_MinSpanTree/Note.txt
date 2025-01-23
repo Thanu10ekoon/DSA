@@ -1,0 +1,4 @@
+***Graphs
+**Minimum Spanning Tree
+
+*Kind of a tree but a graph
