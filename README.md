@@ -7,4 +7,4 @@
 ## Day 10 - Note on Graphs
 ## Day 11 - Note on Graphs ctd.
 ## Day 12 - Min Span Tree
-## Day 13 - Intro to Trees and BST
+## Day 13 - Intro to Trees and BST (DSA13 Folder)
