@@ -1,3 +1,5 @@
+<a href="https://youtu.be/xkgpWszEBpM"> Graphs Kuppi 01</a>
+
 # Content
 
 ## Day 06 - Bubble Sort
