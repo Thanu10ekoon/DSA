@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.ibb.co/HTcfj5G5/DSAWall.png"></p>
+
 <p><a href = "https://youtu.be/IivOTV5zlYg">Intro to Visual Studio,C#, OOP Quick Recap and Dynamic Arrays Kuppi</p>
 <p><a href = "https://youtu.be/y83zZ20MBfs">Singly Linked List Kuppi</a></p>
 <p><a href="https://youtu.be/xkgpWszEBpM"> Graphs Kuppi 01</a></p>
@@ -11,5 +13,5 @@
 ## Day 10 - Note on Graphs
 ## Day 11 - Note on Graphs ctd.
 ## Day 12 - Min Span Tree
-## Day 13 - Intro to Trees and BST (DSA13 Folder)
-## Day 14 - Trees - BST & AVL (DSA14 Folder)
+## Day 13 - Intro to Trees and BST
+## Day 14 - Trees - BST & AVL
