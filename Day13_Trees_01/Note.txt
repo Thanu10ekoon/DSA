@@ -1,0 +1,34 @@
+***None-Linear Data Structures
+	1. Trees
+	2. Graphs
+  + Linear is data structured one after the other
+  + But non-linear one there is no sequential line arrangement but have interconnected more complex structure
+
+**Trees
+
+*Root - Start of tree (First node of tree)
+*Leaf - Last node of a Branch
+*Edges - similar to graphs, these connect nodes
+*Branches - different paths with different nodes + edges
+* Hierarchy of one Branch :- Root -> Parent nodes -> Child Nodes
+* Height of a tree - Root to Leaf(last node of branch) nodes count / Number of children in a single branch.(Root excluded) 
+* Siblings - Nodes with similar hierarchy level in another branch
+
+* Graphs have circles/loops but Trees have ends(ends with a leaf node)
+
+**Binary Search Tree
+
+* Binary means 2 So, these have only TWO CHILDREN nodes
+* Any SINGLE NODE can have ONLY 2 or LESS number of CHILDREN
+* other search trees are multiway trees
+* We use these for searching
+
+* Any BST Root have 2 children
+	* Left hand side - if Parent(Root in here) > Child node value -> Left Child
+	* Right hand Side - if Parent < Child -> Right Child
+
+
+
+Asymtotic Analysis
+	Big O
+	Big Omega
